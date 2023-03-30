@@ -1,0 +1,11 @@
+1: despues de crear el proyecto con npx create-react-app (nombre de la app) creamos el proyecto en Firebase
+2: despues instalamos las dependencias de firebase npm i firebase
+3:creamos una carpeta en SRC Ej: FirebaseConfig, y un archico firebase.js
+4: intalamos para armar las rutas npm i react-router-dom
+5: para implementar la funcionalidad de si un usuario esta logiado o no vamos a crear una carpeta en src llamada context
+6: una ves que tenemos creado el formulario de registor volvemos al panel de Firebase, en la parte autenticacion.
+Le damos a comenzar y se despliega un menu de distintos tipos de autenticacion. Para este formulario de registro vamos a usar 
+correo y contaseña, le damos click a esta opcion, le damos en habilitar y guardar.
+7: una ves que tenemos todo listo para el registro con email y password vamos a habilitar el registro con google. Para
+esto volvemos a Firebase y en autenticacion habilitamos la de google.
+8:Ahora por ultimo vamos a dar la opcion de restaurar contraseña

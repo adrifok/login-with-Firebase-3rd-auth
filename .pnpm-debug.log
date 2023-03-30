@@ -1,0 +1,504 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {
+      "name": "login-react-firebase",
+      "version": "0.1.0",
+      "private": true,
+      "dependencies": {
+        "@testing-library/jest-dom": "^5.16.5",
+        "@testing-library/react": "^13.4.0",
+        "@testing-library/user-event": "^13.5.0",
+        "firebase": "^9.18.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.9.0",
+        "react-scripts": "5.0.1",
+        "web-vitals": "^2.1.4"
+      },
+      "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+      },
+      "eslintConfig": {
+        "extends": [
+          "react-app",
+          "react-app/jest"
+        ]
+      },
+      "browserslist": {
+        "production": [
+          ">0.2%",
+          "not dead",
+          "not op_mini all"
+        ],
+        "development": [
+          "last 1 chrome version",
+          "last 1 firefox version",
+          "last 1 safari version"
+        ]
+      }
+    },
+    "prefix": "C:\\Users\\Usuario\\Desktop\\login-react-firebase"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "C:\\Users\\Usuario\\.pnpm-store\\v3",
+    "virtualStoreDir": "C:\\Users\\Usuario\\Desktop\\login-react-firebase\\node_modules\\.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/react-scripts/5.0.1",
+    "wanted": {
+      "dependentId": ".",
+      "name": "react-scripts",
+      "rawSpec": "5.0.1"
+    }
+  },
+  "5 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-scripts/5.0.1",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "6 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-scripts/5.0.1",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "found_in_store"
+  },
+  "7 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/web-vitals/2.1.4",
+    "wanted": {
+      "dependentId": ".",
+      "name": "web-vitals",
+      "rawSpec": "^2.1.4"
+    }
+  },
+  "8 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/web-vitals/2.1.4",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "9 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/react-router-dom/6.10.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "react-router-dom",
+      "rawSpec": "^6.9.0"
+    }
+  },
+  "10 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-router-dom/6.10.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "11 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@testing-library/react/13.4.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@testing-library/react",
+      "rawSpec": "^13.4.0"
+    }
+  },
+  "12 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/react/13.4.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "13 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@testing-library/jest-dom/5.16.5",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@testing-library/jest-dom",
+      "rawSpec": "^5.16.5"
+    }
+  },
+  "14 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/jest-dom/5.16.5",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "15 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/web-vitals/2.1.4",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "found_in_store"
+  },
+  "16 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/react-router-dom/6.10.0",
+    "size": 153526,
+    "status": "started"
+  },
+  "17 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@testing-library/user-event/13.5.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@testing-library/user-event",
+      "rawSpec": "^13.5.0"
+    }
+  },
+  "18 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/user-event/13.5.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "19 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/react/13.4.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "found_in_store"
+  },
+  "20 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/jest-dom/5.16.5",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "found_in_store"
+  },
+  "21 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/user-event/13.5.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "found_in_store"
+  },
+  "22 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/react-dom/18.2.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "react-dom",
+      "rawSpec": "^18.2.0"
+    }
+  },
+  "23 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-dom/18.2.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "24 debug pnpm:update-check": {
+    "currentVersion": "6.11.0",
+    "latestVersion": "8.1.0"
+  },
+  "25 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-dom/18.2.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "found_in_store"
+  },
+  "26 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/react/18.2.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "react",
+      "rawSpec": "^18.2.0"
+    }
+  },
+  "27 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react/18.2.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "28 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react/18.2.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "found_in_store"
+  },
+  "29 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-router-dom/6.10.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "fetched"
+  },
+  "30 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/firebase/9.19.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "firebase",
+      "rawSpec": "^9.18.0"
+    }
+  },
+  "31 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "requester": "C:\\Users\\Usuario\\Desktop\\login-react-firebase",
+    "status": "resolved"
+  },
+  "32 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "size": 5569321,
+    "status": "started"
+  },
+  "33 debug pnpm:fetching-progress": {
+    "downloaded": 15864,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "34 debug pnpm:fetching-progress": {
+    "downloaded": 32179,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "35 debug pnpm:fetching-progress": {
+    "downloaded": 48563,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "36 debug pnpm:fetching-progress": {
+    "downloaded": 64947,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "37 debug pnpm:fetching-progress": {
+    "downloaded": 81331,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "38 debug pnpm:fetching-progress": {
+    "downloaded": 97715,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "39 debug pnpm:fetching-progress": {
+    "downloaded": 114099,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "40 debug pnpm:fetching-progress": {
+    "downloaded": 130483,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "41 debug pnpm:fetching-progress": {
+    "downloaded": 146867,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "42 debug pnpm:fetching-progress": {
+    "downloaded": 163251,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "43 debug pnpm:fetching-progress": {
+    "downloaded": 179394,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "44 debug pnpm:fetching-progress": {
+    "downloaded": 195778,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "45 debug pnpm:fetching-progress": {
+    "downloaded": 212162,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "46 debug pnpm:fetching-progress": {
+    "downloaded": 227588,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "47 debug pnpm:fetching-progress": {
+    "downloaded": 231684,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "48 debug pnpm:fetching-progress": {
+    "downloaded": 248068,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "49 debug pnpm:fetching-progress": {
+    "downloaded": 256260,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "50 debug pnpm:fetching-progress": {
+    "downloaded": 272644,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "51 debug pnpm:fetching-progress": {
+    "downloaded": 276740,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "52 debug pnpm:fetching-progress": {
+    "downloaded": 289028,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "53 debug pnpm:fetching-progress": {
+    "downloaded": 297220,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "54 debug pnpm:fetching-progress": {
+    "downloaded": 301316,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "55 debug pnpm:fetching-progress": {
+    "downloaded": 313604,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "56 debug pnpm:fetching-progress": {
+    "downloaded": 329988,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "57 debug pnpm:fetching-progress": {
+    "downloaded": 342276,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "58 debug pnpm:fetching-progress": {
+    "downloaded": 358660,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "59 debug pnpm:fetching-progress": {
+    "downloaded": 375044,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "60 debug pnpm:fetching-progress": {
+    "downloaded": 391428,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "61 debug pnpm:fetching-progress": {
+    "downloaded": 407812,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "62 debug pnpm:fetching-progress": {
+    "downloaded": 424196,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "63 debug pnpm:fetching-progress": {
+    "downloaded": 440580,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "64 debug pnpm:fetching-progress": {
+    "downloaded": 456964,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "65 debug pnpm:fetching-progress": {
+    "downloaded": 473348,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "66 debug pnpm:fetching-progress": {
+    "downloaded": 489732,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "67 debug pnpm:fetching-progress": {
+    "downloaded": 506116,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "68 debug pnpm:fetching-progress": {
+    "downloaded": 522500,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "69 debug pnpm:fetching-progress": {
+    "downloaded": 538884,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "70 debug pnpm:fetching-progress": {
+    "downloaded": 555268,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "71 debug pnpm:fetching-progress": {
+    "downloaded": 567556,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "72 debug pnpm:fetching-progress": {
+    "downloaded": 583940,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "73 debug pnpm:fetching-progress": {
+    "downloaded": 600324,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "74 debug pnpm:fetching-progress": {
+    "downloaded": 616708,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "75 debug pnpm:fetching-progress": {
+    "downloaded": 633092,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "76 debug pnpm:fetching-progress": {
+    "downloaded": 649476,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "77 debug pnpm:fetching-progress": {
+    "downloaded": 665860,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "78 debug pnpm:fetching-progress": {
+    "downloaded": 682244,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "79 debug pnpm:fetching-progress": {
+    "downloaded": 698628,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "80 debug pnpm:fetching-progress": {
+    "downloaded": 715012,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "81 debug pnpm:fetching-progress": {
+    "downloaded": 731396,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "82 debug pnpm:fetching-progress": {
+    "downloaded": 747780,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "83 debug pnpm:fetching-progress": {
+    "downloaded": 764164,
+    "packageId": "registry.npmjs.org/firebase/9.19.0",
+    "status": "in_progress"
+  },
+  "84 error pnpm": {
+    "code": "ERR_PNPM_FETCH_404",
+    "hint": "nodemos is not in the npm registry, or you have no permission to fetch it.\n\nNo authorization header was set for the request.",
+    "request": {
+      "url": "https://registry.npmjs.org/nodemos"
+    },
+    "response": {
+      "size": 0,
+      "timeout": 60000
+    },
+    "pkgName": "nodemos",
+    "pkgsStack": [],
+    "err": {
+      "name": "Error",
+      "message": "GET https://registry.npmjs.org/nodemos: Not Found - 404",
+      "code": "ERR_PNPM_FETCH_404",
+      "stack": "Error: GET https://registry.npmjs.org/nodemos: Not Found - 404\n    at RetryOperation._fn (C:\\Users\\Usuario\\.node\\corepack\\pnpm\\6.11.0\\dist\\pnpm.cjs:79604:18)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
+    }
+  }
+}
